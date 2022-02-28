@@ -4,7 +4,7 @@ first download the file. Then add the "proxy_creator" to the project file. Then 
 
 from proxy_creator import take_proxy
 
-proxy = take_proxy(site_name="https://www.google.com.tr/",print_info=False,delay=7000)
+proxy = take_proxy(site_name="https://www.google.com.tr/" , print_info=False , delay=7000)
 print(proxy)
 
 outputs : 
