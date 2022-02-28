@@ -11,6 +11,6 @@ outputs :
   118.99.87.79:8080
 
 
-site_name : site name to send request 
-print_info : print sucseefuly or fail
-delay : proxy delay
+site_name : site name to send request \n
+print_info : print sucseefuly or fail \n
+delay : proxy delay 
